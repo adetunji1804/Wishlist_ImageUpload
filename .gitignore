@@ -1,0 +1,13 @@
+#ignore -
+#- all file with an extension pyc
+*.pyc 
+
+#- the python cache file
+__pycache__
+
+#- virtual enviroment
+wishenv/
+
+#- the database
+db.sqlite3
+chromedriver.exe
